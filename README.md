@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Abderrahmen11
 
-I'm a Tunisian developer with a passion for **tech, innovation, and impact**. Currently working on **FitAura** — a digital fitness platform designed to motivate and empower users of all levels. My journey in tech blends creativity with logic, and I’m all about building solutions that actually matter.
+I'm a Tunisian developer with a passion for **tech, innovation, and impact**. My journey in tech blends creativity with logic, and I’m all about building solutions that actually matter.
 
 
 
@@ -9,10 +9,7 @@ I'm a Tunisian developer with a passion for **tech, innovation, and impact**. Cu
 - 💼 Land opportunities where I can grow, learn, and contribute  
 - 🚀 Share my learning journey while building something meaningful
 
-### ⚙️ Current Project
-**FitAura** – A fitness platform combining structured workouts, expert insights, and community motivation.
 
----
 
 I'm here to grow, connect, and code with purpose. If you're into building cool stuff or just wanna connect, feel free to reach out! 🙌
 
